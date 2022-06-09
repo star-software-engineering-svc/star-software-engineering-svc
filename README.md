@@ -9,6 +9,6 @@
 
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/TopETH/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/star-software-engineering-svc/count.svg)
 
 </div>
